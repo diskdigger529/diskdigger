@@ -1,0 +1,2 @@
+# diskdigger
+Are you aware of creating ISO images by using DISKDIGGER, Aren’t you?  Then have a glimpse at our article. The article is all about creating an ISO file from any CD or DVD. An ISO file is a copy content of an optical disk like a CD or DVD. If you want to back up the disk’s contents simple you can make ISO images of a disk. After a while, you can burn the ISO file you created onto a new disk, which will become a facsimile of the original one. 
